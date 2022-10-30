@@ -4,7 +4,7 @@ const upcoming = document.querySelector(".upcoming");
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '64a8de2decmsh8d23f358d95c5ffp1bcd3bjsn9fe528320e27',
+		'X-RapidAPI-Key': '8f8a4f86d5msh052dacb14b628aep13fb6bjsn9854870e2355',
 		'X-RapidAPI-Host': 'cricbuzz-cricket.p.rapidapi.com'
 	}
 };
